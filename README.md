@@ -1,1 +1,1 @@
-# Euphemisms-attenuate-norm-violations-an-EEG-study-
+# Euphemisms attenuate norm violations: an EEG study
