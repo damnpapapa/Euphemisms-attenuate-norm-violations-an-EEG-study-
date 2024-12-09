@@ -9,15 +9,17 @@ Explore differences in ERP components for euphemized and non-euphemized descript
 Assess the role of individual cognitive traits in the perception of euphemisms.
 
 # Repository Structure
-/BEHanalysis.ipynb       # Jupyter Notebook for behavioral data analysis
-/ERPanalysis.ipynb       # Jupyter Notebook for ERP data analysis
+/BEHanalysis.ipynb # Jupyter Notebook for behavioral data analysis
+/ERPanalysis.ipynb # Jupyter Notebook for ERP data analysis
 /data/
-/results/                # Results: plots, tables, and other outputs
-/README.md               # Project description
-/LICENSE                 # License information
+/results/ # Results: plots, tables, and other outputs
+/README.md # Project description
+/LICENSE # License information
 
 # Key Findings
-Behavioral Results: Euphemisms reduced the perceived severity of norm violations.
+Behavioral Results: 
+Euphemisms reduced the perceived severity of norm violations.
+
 ERP Results:
 P600 was more pronounced for non-euphemized descriptions.
 N400 showed no significant differences between conditions.
