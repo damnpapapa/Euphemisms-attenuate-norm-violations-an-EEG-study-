@@ -1,27 +1,19 @@
-# Euphemisms attenuate norm violations: an EEG study
+# **Euphemisms Attenuate Norm Violations: An EEG Study**
 
-# Project Description
-This repository contains the data analysis code used in the study of neurocognitive mechanisms underlying the perception of euphemized descriptions of norm violations. The study utilized ERP components (N400, P600) to examine brain responses to euphemisms and non-euphemized terms.
+## **Project Description**
+This repository contains the data analysis code and supplementary materials for the study on the neurocognitive mechanisms underlying the perception of euphemized norm violations. The study used ERP components (N400, P600) to examine how euphemisms influence brain responses and behavioral evaluations.
 
-# Study Goals
-Investigate how euphemisms influence behavioral evaluations and brain activity.
-Explore differences in ERP components for euphemized and non-euphemized descriptions.
-Assess the role of individual cognitive traits in the perception of euphemisms.
+### **Study Goals**
+- Explore how euphemisms affect the perception of norm violations.  
+- Examine differences in ERP components (N400 and P600) for euphemized and non-euphemized descriptions.  
+- Investigate the influence of individual cognitive traits (Need for Cognition) on these processes.
 
-# Repository Structure
-/BEHanalysis.ipynb # Jupyter Notebook for behavioral data analysis
-/ERPanalysis.ipynb # Jupyter Notebook for ERP data analysis
-/data/
-/results/ # Results: plots, tables, and other outputs
-/README.md # Project description
-/LICENSE # License information
+---
 
-# Key Findings
-Behavioral Results: 
-Euphemisms reduced the perceived severity of norm violations.
-
-ERP Results:
-P600 was more pronounced for non-euphemized descriptions.
-N400 showed no significant differences between conditions.
-Individual Differences: No significant correlation was found between Need for Cognition and responses to euphemisms.
-
+## **Repository Structure**
+```plaintext
+├── BEHanalysis.ipynb        # Jupyter Notebook for behavioral data analysis
+├── ERPanalysis.ipynb        # Jupyter Notebook for ERP data analysis
+├── data/                    
+├── README.md                # Project description and usage instructions
+├── LICENSE                  # License information
